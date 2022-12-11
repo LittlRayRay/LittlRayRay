@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittlRayRay
 - 👀 I’m interested in programming and making games
-- 🌱 I’m currently learning python and C# and 
+- 🌱 I’m currently learning python and C# and RUST
 - 💞️ I’m looking to collaborate on discord bot dev and game dev
 
 <!---
