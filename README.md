@@ -1,4 +1,4 @@
-19 year old student at the University of Warwick
+19 year old cs student @ University of Warwick
 
 <!---
 LittlRayRay/LittlRayRay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
